@@ -34,7 +34,7 @@ Pastikan **Node.js** sudah terinstall di komputer Anda.
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/ReihanMursyidi/ShopAdminPage.git](https://github.com/ReihanMursyidi/ShopAdminPage.git)
+    git clone https://github.com/ReihanMursyidi/ShopAdminPage.git
     cd ShopAdminPage
     ```
 
